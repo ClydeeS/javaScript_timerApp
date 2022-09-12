@@ -1,0 +1,31 @@
+.header{
+    width: 700px;
+    border: 3px solid white;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 400px;
+    color: white;
+    text-align: center;
+}
+
+#big_h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    letter-spacing: 7px;
+    height: 30px;
+}
+
+#big_h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    letter-spacing: 11px;
+    height: 20px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    line-height: 5px;
+    height: 10px;
+}
